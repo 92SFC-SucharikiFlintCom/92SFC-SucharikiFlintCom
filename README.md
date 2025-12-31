@@ -36,3 +36,9 @@ I am a seasoned **Fullstack Developer** with a focus on building robust, scalabl
 - **Architecture:** Microservices, Event-Driven Design, Distributed Systems.
 - **Performance:** Caching strategies, DB indexing, Load balancing.
 - **Security:** OAuth2/OIDC, Data Encryption, Secure API Design.
+
+---
+
+### 📜 Featured Snippets (Gists)
+- 🐳 [Optimized Dockerfile for Node.js](https://gist.github.com/92SFC-SucharikiFlintCom) — Production-ready multi-stage build.
+- 🏗️ [Generic API Handler (TS)](https://gist.github.com/92SFC-SucharikiFlintCom) — Clean error handling wrapper.
