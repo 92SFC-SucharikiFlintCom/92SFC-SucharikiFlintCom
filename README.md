@@ -46,4 +46,4 @@ I am a seasoned **Fullstack Developer** with a focus on building robust, scalabl
 ---
 
 ### ℹ️ Profile Migration Notice
-> **Note:** Although this GitHub account is relatively new, I have been active in the software engineering industry since 2022. This profile serves as my newly consolidated professional space. Most of my historical contributions and project data remain within private enterprise environments (internal GitLab & Bitbucket instances) under corporate NDAs. I've established this public presence to share professional snippets and maintain my open-source activity separately.
+> **Note:** Although this GitHub account is relatively new, I have been active in the engineering industry since 2023. This profile serves as my primary professional hub for technical reference and industry engagement. While my core development work continues to be managed within private enterprise environments (internal GitLab & Bitbucket instances) under corporate NDAs, I maintain this space to share curated technical snippets and track the evolving software ecosystem.
