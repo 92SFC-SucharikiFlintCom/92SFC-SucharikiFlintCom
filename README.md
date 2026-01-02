@@ -42,3 +42,8 @@ I am a seasoned **Fullstack Developer** with a focus on building robust, scalabl
 ### 📜 Featured Snippets (Gists)
 - 🐳 [Optimized Dockerfile for Node.js](https://gist.github.com/92SFC-SucharikiFlintCom) — Production-ready multi-stage build.
 - 🏗️ [Generic API Handler (TS)](https://gist.github.com/92SFC-SucharikiFlintCom) — Clean error handling wrapper.
+
+---
+
+### ℹ️ Profile Migration Notice
+> **Note:** Although this GitHub account is relatively new, I have been active in the software engineering industry since 2022. This profile serves as my newly consolidated professional space. Most of my historical contributions and project data remain within private enterprise environments (internal GitLab & Bitbucket instances) under corporate NDAs. I've established this public presence to share professional snippets and maintain my open-source activity separately.
